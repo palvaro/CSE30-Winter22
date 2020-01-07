@@ -31,6 +31,7 @@ If you don’t want to use a proprietary Google product, you can also install Ju
  
 # Readings and Prerequisites
 
+The official prerequisite is CSE20 (formerly CMPS5P), aka "Introduction to Programming (in Python)" aka "Python for Poets."  What is really required for the course is some programming experience and some proficiency in Python.  I am happy to share permission codes with students who have both of these prerequisite skills, despite what courses you may have taken. 
  
 # Assigments and Grading
 
