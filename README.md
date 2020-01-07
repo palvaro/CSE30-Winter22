@@ -18,6 +18,8 @@
 
 <i> Introduction to software development in Python focusing on structuring software in terms of objects endowed with primitive operations. Introduces concepts and techniques via a sequence of concrete case studies. Coursework consists of programming assignments and a final examination.</i>
 
+## Informal Description
+
 The goal of this course is to introduce you to basic techniques for solving lots of programming problems common in computer science. The approach we will take is to consider what objects are useful for representing a problem, what operations can be defined on those objects, and what mathematical properties those operations should have. 
 
 All the programming work we do in this course will be done in Python, using [Jupyter](https://jupyter.org/) notebooks. A notebook is an interactive document that can contain live code (in Python and other languages, although we’ll only be using Python), narrative text, visualizations, and equations. Jupyter notebooks are incredibly widely used in industry and research.
@@ -81,7 +83,7 @@ Students come to CSE30 with different backgrounds, skills and abilities.  I try 
 
  * Please use private messages on Piazza, rather than email, to communicate private issues with the instructor or the TAs.
 
-# Acknowledgement
+# Acknowledgements
 
 This course is based on [Luca de Alfaro’s](https://sites.google.com/a/ucsc.edu/luca/) CSE 30 course design, and the course materials are based on those that he created for [his fall 2019 version of the course](https://sites.google.com/a/ucsc.edu/luca/classes/cse-30/cse-30-fall-2019). (That said, I take full responsibility for my own course, so if you don’t like the design of this course, you should complain to me, not Luca.)
 
