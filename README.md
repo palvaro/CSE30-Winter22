@@ -5,11 +5,12 @@
 |When: | Tuesdays and Thursdays at <b>1:30 PM</b>. |
 |Where: | Humanities Lecture Hall |
 |Who: | [Peter Alvaro](http://people.ucsc.edu/~palvaro/) |
-|Office hours: | TBD |
+|Office hours: | Tuesdays @ 10 and Thursdays @ 12:30 in E2-353 |
 |Prerequisites: | CSE20 (formerly CMPS5P) recommended. |
 |Text: | [Programming Abstractions](https://sites.google.com/ucsc.edu/programmingabstractions/home)|
-|TAs: | [Vhal Purohit](vpurohit@ucsc.edu) |
-|Labs: | TBD|
+|TAs: | Vhal Purohit (vpurohit@ucsc.edu) |
+|| Kenneth Chang (kchang44@ucsc.edu)|
+|| Alexander Pearson (almpears@ucsc.edu)|
 
 # Description
 
