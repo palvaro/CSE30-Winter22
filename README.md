@@ -29,7 +29,7 @@ In particular, we’ll be using the [Google Colaboratory](https://colab.research
 If you don’t want to use a proprietary Google product, you can also install Jupyter Notebook locally and do the homework that way, but you do so at your own risk and inconvenience. I’m sympathetic to not wanting to use Google products, but the course staff cannot help you debug issues with your local Python environment (a non-issue if you use Colab), and you won’t get the peace of mind that comes with automatic backups.
 
  
-# Readings and Prerequisites
+# Prerequisites
 
 The official prerequisite is CSE20 (formerly CMPS5P), aka "Introduction to Programming (in Python)" aka "Python for Poets."  What is really required for the course is some programming experience and some proficiency in Python.  I am happy to share permission codes with students who have both of these prerequisite skills, despite what courses you may have taken. 
  
