@@ -15,6 +15,7 @@
 ## Sections
 
 |Where|When|Who|
+|-----|----|---|
 |J Baskin Engr 105|M 05:00PM-06:00PM|Ken|
 |J Baskin Engr 105|Tu 05:00PM-06:00PM|Vhal|
 |J Baskin Engr 105|W 05:00PM-06:00PM|Alex|
