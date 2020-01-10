@@ -12,6 +12,14 @@
 || Kenneth Chang (kchang44@ucsc.edu)|
 || Alexander Pearson (almpears@ucsc.edu)|
 
+## Sections
+
+|Where|When|Who|
+|J Baskin Engr 105|M 05:00PM-06:00PM|Ken|
+|J Baskin Engr 105|Tu 05:00PM-06:00PM|Vhal|
+|J Baskin Engr 105|W 05:00PM-06:00PM|Alex|
+|J Baskin Engr 105|Th 05:00PM-06:00PM|Vhal|
+
 # Description
 
 ## Official Description
