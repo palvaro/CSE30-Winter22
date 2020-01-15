@@ -1,5 +1,5 @@
-# CMPS128 Winter 2018
-## Distributed Systems
+# CSE 30 Winter 2020
+## Programming Abstractions in Python
 | key | value | 
 |-----|-------|
 |When: | Tuesdays and Thursdays at <b>1:30 PM</b>. |
