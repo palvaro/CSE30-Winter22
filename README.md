@@ -20,6 +20,8 @@
 |J Baskin Engr 105|Tu 05:00PM-06:00PM|Vhal|
 |J Baskin Engr 105|W 05:00PM-06:00PM|Alex|
 |J Baskin Engr 105|Th 05:00PM-06:00PM|Vhal|
+|Phys Sciences 130|F 01:20PM-02:25PM|Ken|
+|Phys Sciences 130|F 02:40PM-03:45PM|Alex|
 
 # Description
 
