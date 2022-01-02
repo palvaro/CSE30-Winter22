@@ -8,7 +8,7 @@
 |Office hours: | TBD |
 |Prerequisites: | CSE20 (formerly CMPS5P) recommended. |
 |Text: | [Programming Abstractions](https://sites.google.com/ucsc.edu/programmingabstractions/home)|
-|TAs: | TBA |
+|TAs: | Andy Port (aaport@ucsc.edu) <br> Donald Stewart (dolstewa@ucsc.edu)|
 
 ## Sections
 
