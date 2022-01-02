@@ -4,24 +4,17 @@
 |-----|-------|
 |When: | Tuesdays and Thursdays at <b>1:30 PM</b>. |
 |Where: | Humanities Lecture Hall |
-|Who: | [Peter Alvaro](http://people.ucsc.edu/~palvaro/) |
-|Office hours: | Tuesdays @ 10 and Thursdays @ 12:30 in E2-353 |
+|Who: | [Peter Alvaro](http://people.ucsc.edu/~palvaro/) and Alex Rudnick|
+|Office hours: | TBD |
 |Prerequisites: | CSE20 (formerly CMPS5P) recommended. |
 |Text: | [Programming Abstractions](https://sites.google.com/ucsc.edu/programmingabstractions/home)|
-|TAs: | Vhal Purohit (vpurohit@ucsc.edu) |
-|| Kenneth Chang (kchang44@ucsc.edu)|
-|| Alexander Pearson (almpears@ucsc.edu)|
+|TAs: | TBA |
 
 ## Sections
 
 |Where|When|Who|
 |-----|----|---|
-|J Baskin Engr 105|M 05:00PM-06:00PM|Ken|
-|J Baskin Engr 105|Tu 05:00PM-06:00PM|Vhal|
-|J Baskin Engr 105|W 05:00PM-06:00PM|Alex|
-|J Baskin Engr 105|Th 05:00PM-06:00PM|Vhal|
-|Phys Sciences 130|F 01:20PM-02:25PM|Ken|
-|Phys Sciences 130|F 02:40PM-03:45PM|Alex|
+
 
 # Description
 
