@@ -49,7 +49,7 @@ The official prerequisite is CSE20 (formerly CMPS5P), aka "Introduction to Progr
 
 We will not have midterm exams or a final exam in this course.
 
-Lecture attendance will count towards 5% of your grade. Attendance will be taken in class via QR codes displayed on the projection screen. These QR codes lead you to forms where you can register your attendance (and provide feedback about the class). Thus, you need a mobile device with a camera. We will excuse up to three absences without need for justification, and more as appropriate with valid justification.
+Lecture attendance will count towards 5% of your grade. Attendance will be taken in class via short, ungraded quizzes. We will excuse up to three absences without need for justification, and more as appropriate with valid justification.
 
 Participation is another 5% of the course grade. (Just showing up to lecture doesn’t count as participation in and of itself.) We evaluate participation in a holistic way, including participation in lectures and sections (i.e., speaking up often enough to make an impression on course staff), in office hours, in tutoring hours, on Piazza (answering your classmates’ questions well, and/or asking good questions), and beyond. You do not have to participate in all these ways to get full participation credit, but if you participate in none or almost none of them, don’t expect to get much participation credit.
 
