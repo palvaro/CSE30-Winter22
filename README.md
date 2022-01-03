@@ -4,10 +4,10 @@
 |-----|-------|
 |When: | Tuesdays and Thursdays at <b>8am :(</b>. |
 |Where: | Humanities Lecture Hall |
-|Who: | [Peter Alvaro](http://people.ucsc.edu/~palvaro/) and Alex Rudnick|
+|Who: | [Peter Alvaro](http://people.ucsc.edu/~palvaro/) and [Alex Rudnick](http://alexr.cc)|
 |Office hours: | TBD |
 |Prerequisites: | CSE20 (formerly CMPS5P) recommended. |
-|Text: | [Programming Abstractions](https://sites.google.com/ucsc.edu/programmingabstractions/home)|
+|Text: | [Programming Abstractions](https://abstractions-in-python.github.io/)|
 |TAs: | Andy Port (aaport@ucsc.edu) <br> Donald Stewart (dolstewa@ucsc.edu) <br> Engin Tekin (etekin@ucsc.edu) <br> Peng Zhou (pzhou10@ucsc.edu) <br> Sheideh Homayon (shomayon@ucsc.edu) <br> Yue Fan (yfan71@ucsc.edu)|
 
 ## Sections
@@ -30,7 +30,7 @@ All the programming work we do in this course will be done in Python, using [Jup
 
 In particular, we’ll be using the [Google Colaboratory](https://colab.research.google.com/notebooks/welcome.ipynb) (“Colab” for short) hosted notebook environment. This approach has several advantages: there’s nothing to install or maintain on your computer, you can work from any machine with an internet connection, your work is automatically saved and backed up in Google Drive, and if you want to share your in-progress homework with the course staff, all you have to do is share a URL with them, and they’ll see exactly what you see.
 
-If you don’t want to use a proprietary Google product, you can also install Jupyter Notebook locally and do the homework that way, but you do so at your own risk and inconvenience. I’m sympathetic to not wanting to use Google products, but the course staff cannot help you debug issues with your local Python environment (a non-issue if you use Colab), and you won’t get the peace of mind that comes with automatic backups.
+If you don’t want to use a proprietary Google product, you can also install Jupyter Notebook locally and do the homework that way, but you do so at your own risk and inconvenience. We're sympathetic to not wanting to use Google products, but the course staff cannot help you debug issues with your local Python environment (a non-issue if you use Colab), and you won’t get the peace of mind that comes with automatic backups.
 
  
 # Prerequisites
@@ -60,9 +60,9 @@ We will not accept late homework. The homework is graded automatically in large 
 
 # Academic honesty
 
-Collaboration is a key part of research.  I encourage you to discuss the readings and the final project ideas with your classmates.  However, you must reveal the students with whom you discussed the assignments.  Failure to do so will result in formal disciplinary proceedings.  
+Collaboration is a key part of research.  We encourage you to discuss the readings and the final project ideas with your classmates.  However, you must reveal the students with whom you discussed the assignments.  Failure to do so will result in formal disciplinary proceedings.  
 
-I should not need to say so, but I do: plagiarism in any form is not acceptable and will not be tolerated.  As researchers, we always stand upon the shoulders of giants, and building upon existing work is the norm.  It is essential, however, that we provide proper attribution.  When in doubt, cite!  
+We should not need to say so, but we do: plagiarism in any form is not acceptable and will not be tolerated.  As researchers, we always stand upon the shoulders of giants, and building upon existing work is the norm.  It is essential, however, that we provide proper attribution.  When in doubt, cite!  
 
 ## Formal Collaboration Policy
 
@@ -78,9 +78,9 @@ You cannot:
 
 # Getting Help
 
-Students come to CSE30 with different backgrounds, skills and abilities.  I try to teach the course in a way that benefits everyone and adjust to the needs of the class whenever I can.  It is your responsibility as a student to ask for help if you fall behind or are having difficulty with the material.  We have a lot of great resources for obtaining help:
+Students come to CSE30 with different backgrounds, skills and abilities.  We try to teach the course in a way that benefits everyone and adjust to the needs of the class whenever we can.  It is your responsibility as a student to ask for help if you fall behind or are having difficulty with the material.  We have a lot of great resources for obtaining help:
 
- * I will hold two hours of office hours per week.  When you arrive at office hours, please feel free to walk in even if there are already students inside -- this way, we can answer questions as a group and make better use of the time.  If you need to speak with me privately, please let me know and I will find a time either within or outside of regular office hours.  Office hours are a great place to discuss concepts.
+ * We will hold two hours of office hours per week.  When you arrive at office hours, please feel free to walk in even if there are already students inside -- this way, we can answer questions as a group and make better use of the time.  If you need to speak with me privately, please let me know and we will find a time either within or outside of regular office hours.  Office hours are a great place to discuss concepts.
 
  * The TAs will host at least four 1-hour sections per week, where they will be assisted by our amazing team of group tutors.  Sections are a great place to ask specific questions about the homeworks.
 
@@ -90,6 +90,6 @@ Students come to CSE30 with different backgrounds, skills and abilities.  I try 
 
 # Acknowledgements
 
-This course is based on [Luca de Alfaro’s](https://sites.google.com/a/ucsc.edu/luca/) CSE 30 course design, and the course materials are based on those that he created for [his fall 2019 version of the course](https://sites.google.com/a/ucsc.edu/luca/classes/cse-30/cse-30-fall-2019). (That said, I take full responsibility for my own course, so if you don’t like the design of this course, you should complain to me, not Luca.)
+This course is based on [Luca de Alfaro’s](https://sites.google.com/a/ucsc.edu/luca/) CSE 30 course design, and the course materials are based on those that he created for [his fall 2019 version of the course](https://sites.google.com/a/ucsc.edu/luca/classes/cse-30/cse-30-fall-2019). (That said, we take full responsibility for this course, so if you don’t like the design of this course, you should complain to Peter & Alex, not Luca.)
 
-This syllabus is largely derived from that of my colleague [Lindsey Kuper](http://composition.al/about/), who is concurrently teaching this course and who, unlike me, does not leave everything till the last minute.
+This syllabus is largely derived from that of our colleague [Lindsey Kuper](http://composition.al/about/), who also taught the course previously.
