@@ -3,7 +3,7 @@
 | key | value | 
 |-----|-------|
 |When: | Tuesdays and Thursdays at <b>8am :(</b>. |
-|Where: | Humanities Lecture Hall |
+|Where: | completely online! |
 |Who: | [Peter Alvaro](http://people.ucsc.edu/~palvaro/) and [Alex Rudnick](http://alexr.cc)|
 |Office hours: | TBD |
 |Prerequisites: | CSE20 (formerly CMPS5P) recommended. |
