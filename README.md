@@ -51,7 +51,7 @@ We will not have midterm exams or a final exam in this course.
 
 Lecture attendance will count towards 5% of your grade. Attendance will be taken in class via short, ungraded quizzes. We will excuse up to three absences without need for justification, and more as appropriate with valid justification.
 
-Participation is another 5% of the course grade. (Just showing up to lecture doesn’t count as participation in and of itself.) We evaluate participation in a holistic way, including participation in lectures and sections (i.e., speaking up often enough to make an impression on course staff), in office hours, in tutoring hours, on Piazza (answering your classmates’ questions well, and/or asking good questions), and beyond. You do not have to participate in all these ways to get full participation credit, but if you participate in none or almost none of them, don’t expect to get much participation credit.
+Participation is another 5% of the course grade. (Just showing up to lecture doesn’t count as participation in and of itself.) We evaluate participation in a holistic way, including participation in lectures and sections (i.e., speaking up often enough to make an impression on course staff), in office hours, in tutoring hours, on Discord (answering your classmates’ questions well, and/or asking good questions), and beyond. You do not have to participate in all these ways to get full participation credit, but if you participate in none or almost none of them, don’t expect to get much participation credit.
 
 ## Late homework policy
 
@@ -84,9 +84,9 @@ Students come to CSE30 with different backgrounds, skills and abilities.  I try 
 
  * The TAs will host at least four 1-hour sections per week, where they will be assisted by our amazing team of group tutors.  Sections are a great place to ask specific questions about the homeworks.
 
- * We will use Piazza as a discussion forum.  Piazza tends to be as good as the students make it: please use it both to ask and to answer (for participation credit!) questions about lecture as well as general questions about topics covered in homeworks.
+ * We will use Discord as a discussion forum.  Discord tends to be as good as the students make it: please use it both to ask and to answer (for participation credit!) questions about lecture as well as general questions about topics covered in homeworks.
 
- * Please use private messages on Piazza, rather than email, to communicate private issues with the instructor or the TAs.
+ * Please email the cse30_staff@ucsc.edu mailing list, rather than personal emails, to communicate private issues with the instructor or the TAs. This will make it easier for us to keep all of the class communication in one place and not overlook any of your messages. If you send messages to the personal accounts of the instructors or TAs we cannot guarantee a response.
 
 # Acknowledgements
 
