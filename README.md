@@ -86,7 +86,7 @@ Students come to CSE30 with different backgrounds, skills and abilities.  We try
 
  * We will use Discord as a discussion forum.  Discord tends to be as good as the students make it: please use it both to ask and to answer (for participation credit!) questions about lecture as well as general questions about topics covered in homeworks.
 
- * Please email the cse30_staff@ucsc.edu mailing list, rather than personal emails, to communicate private issues with the instructor or the TAs. This will make it easier for us to keep all of the class communication in one place and not overlook any of your messages. If you send messages to the personal accounts of the instructors or TAs we cannot guarantee a response.
+ * Please email the cse30_staff-group@ucsc.edu mailing list, rather than personal emails, to communicate private issues with the instructor or the TAs. This will make it easier for us to keep all of the class communication in one place and not overlook any of your messages. If you send messages to the personal accounts of the instructors or TAs we cannot guarantee a response.
 
 # Acknowledgements
 
