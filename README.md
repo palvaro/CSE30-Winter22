@@ -5,7 +5,7 @@
 |When: | Tuesdays and Thursdays at <b>8am :(</b>. |
 |Where: | completely online! |
 |Who: | [Peter Alvaro](http://people.ucsc.edu/~palvaro/) and [Alex Rudnick](http://alexr.cc)|
-|Office hours: | Peter Alvaro (half-hours): Monday@10, Wednesday@1 (in-person when possible), Friday@11, Friday@2:30 |
+|Office hours: | Peter Alvaro (half-hours): Monday@10, Wednesday@1 (in-person when possible), Friday@11, Friday@2:30 <br/> Alex Rudnick (1 hour): Tuesday & Wednesday at 10am (find Zoom link on Canvas)  |
 |Prerequisites: | CSE20 (formerly CMPS5P) recommended. |
 |Text: | [Programming Abstractions](https://abstractions-in-python.github.io/)|
 |TAs: | Andy Port (aaport@ucsc.edu) <br> Donald Stewart (dolstewa@ucsc.edu) <br> Engin Tekin (etekin@ucsc.edu) <br> Peng Zhou (pzhou10@ucsc.edu) <br> Sheideh Homayon (shomayon@ucsc.edu) <br> Yue Fan (yfan71@ucsc.edu)|
