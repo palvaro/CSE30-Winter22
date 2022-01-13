@@ -14,6 +14,11 @@
 
 [Calendar](https://docs.google.com/spreadsheets/d/1P8gREYUREjhf9-8dxFgsR8ndFCZsyQDx9erzl2ve1Bc/edit#gid=0)
 
+## MSI Tutor Schedules
+
+[Calendar](https://docs.google.com/spreadsheets/d/1rqIIPz5h12-UsE_xztccOvJy5Yjr4TpednS8E8oFYhQ/edit#gid=0)
+
+
 
 # Description
 
